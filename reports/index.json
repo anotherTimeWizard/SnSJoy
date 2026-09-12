@@ -1,0 +1,42 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260912-112846-llrl",
+      "title": "Carvis Onachrono, Carvista, Quartz Tech",
+      "commanders": [
+        "Carvis Onachrono",
+        "Carvista",
+        "Quartz Tech"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-09-12T15:28:46.000Z",
+      "dateEnd": "2026-09-12T15:59:26.441Z",
+      "dateLabel": "9/12/2026, 11:28:46 AM - 9/12/2026, 11:59:26 AM",
+      "url": "https://anotherTimeWizard.github.io/SnSJoy/?report=20260912-112846-llrl",
+      "summary": {
+        "borderlandsPct": 0.047058823529411764,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 81,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 27
+      }
+    }
+  ]
+}
