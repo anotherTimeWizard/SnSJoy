@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260913-103505-91cg",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-13T14:35:05.000Z",
+      "dateEnd": "2026-09-13T15:04:04.199Z",
+      "dateLabel": "9/13/2026, 10:35:05 AM - 9/13/2026, 11:04:04 AM",
+      "url": "https://anotherTimeWizard.github.io/SnSJoy/?report=20260913-103505-91cg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260913-082950-srxd",
       "title": "Carvista",
       "commanders": [
