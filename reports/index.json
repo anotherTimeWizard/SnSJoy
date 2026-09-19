@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-231536-lwat",
+      "title": "Illusive Heart, Jokajo",
+      "commanders": [
+        "Illusive Heart",
+        "Jokajo"
+      ],
+      "guild": {
+        "id": "5D21C7A3-DED6-EF11-8467-122223FBD123",
+        "name": "Recomping",
+        "tag": "OP"
+      },
+      "dateStart": "2026-09-19T03:15:36.000Z",
+      "dateEnd": "2026-09-19T04:02:51.986Z",
+      "dateLabel": "9/18/2026, 11:15:36 PM - 9/19/2026, 12:02:51 AM",
+      "url": "https://anotherTimeWizard.github.io/SnSJoy/?report=20260918-231536-lwat",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260918-221637-cfoa",
       "title": "Jokajo, Mithril Recruit",
       "commanders": [
