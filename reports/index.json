@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-221637-cfoa",
+      "title": "Jokajo, Mithril Recruit",
+      "commanders": [
+        "Jokajo",
+        "Mithril Recruit"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-19T02:16:37.000Z",
+      "dateEnd": "2026-09-19T02:52:18.226Z",
+      "dateLabel": "9/18/2026, 10:16:37 PM - 9/18/2026, 10:52:18 PM",
+      "url": "https://anotherTimeWizard.github.io/SnSJoy/?report=20260918-221637-cfoa",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 24,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20260913-103505-91cg",
       "title": "The Bloöp",
       "commanders": [
