@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260922-212302-1jif",
+      "title": "Mithril Recruit, Platinum Raider",
+      "commanders": [
+        "Mithril Recruit",
+        "Platinum Raider"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-09-23T01:23:02.000Z",
+      "dateEnd": "2026-09-23T01:56:15.517Z",
+      "dateLabel": "9/22/2026, 9:23:02 PM - 9/22/2026, 9:56:15 PM",
+      "url": "https://anotherTimeWizard.github.io/SnSJoy/?report=20260922-212302-1jif",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260918-231536-lwat",
       "title": "Illusive Heart, Jokajo",
       "commanders": [
